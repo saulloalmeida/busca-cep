@@ -1,6 +1,6 @@
-<h1 align="center">Welcome to Buscar Cep 👋</h1>
+<h1 align="center">BuscaCep 👋</h1>
 
-![project-screen](https://raw.githubusercontent.com/saulloalmeida/simple-imc/main/project-screen.png?raw=true)
+![project-screen](https://github.com/saulloalmeida/busca-cep/blob/main/project-screen.png?raw=true)
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
@@ -34,6 +34,3 @@ yarn dev
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
